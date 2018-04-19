@@ -21,3 +21,5 @@
 Не забывайте об указании авторства всех выполненных заданий https://kodaktor.ru/g/z7a
 
 Курс: https://moodle.herzen.spb.ru/course/view.php?id=2359#section-10
+
+Ссылка на задание: https://classroom.github.com/a/3hu6uqbA
